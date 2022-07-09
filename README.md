@@ -5,7 +5,7 @@ These images from various routers which can be used with the meshviewer fork at 
 ## License
 
 Mosth of the files are only copies of: https://github.com/Moorviper/Freifunk-Router-Anleitungen
-named to be used with Meshviewer.
+named to be used with Meshviewer. Some others are copies of https://github.com/belzebub40k/router-pics and https://github.com/nalxnet/freifunk-device-images.
 
 All new drawn pictures except these for the virtual-maschines, the intel and AMD - Logos, and the raspberry-pi graphic (they are from other sources),
 are released as:
